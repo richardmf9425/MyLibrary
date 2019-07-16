@@ -17,10 +17,11 @@
     border-radius: .5rem;
     padding: .5rem 1rem;
     font-size: 1.2rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: sans-serif;
     cursor: pointer;
     text-decoration: none;
     text-align: center;
+
 }
 
 .btn-row {
